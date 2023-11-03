@@ -20,5 +20,9 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![SASS](https://img.shields.io/badge/sass-ED3CCA?style=for-the-badge&logo=sass&logoColor=white)
 ![BEM](https://img.shields.io/badge/bem-DCDCDC?style=for-the-badge&logo=bem&logoColor=black)
+![CSS](https://img.shields.io/badge/css-ED3CCA?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/html-ED3CCA?style=for-the-badge&logo=html&logoColor=white)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-popova-s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
