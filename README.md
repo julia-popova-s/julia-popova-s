@@ -35,7 +35,7 @@
  ---
  
 ### Мои проекты:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julia-popova-s&layout=compact&repo=module_react)](https://github.com/julia-popova-s/github-readme-stats)
+
 
  ---
 
