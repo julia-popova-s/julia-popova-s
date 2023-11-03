@@ -35,3 +35,8 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-popova-s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ ---
+### Мои проекты:
+1. [Интернет-магазин на React](https://github.com/julia-popova-s/foodwagon_project)
+ 
