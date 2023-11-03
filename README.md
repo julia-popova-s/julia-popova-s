@@ -12,7 +12,7 @@
  ### Привет, меня зовут Юлия:woman_technologist: 
 - Я специализируюсь на frontend разработке. 
 - В данный момент ищу возможность присоединиться к команде, в которой смогу расти профессионально и вносить свой вклад в создание высококачественного кода.
-- :mailbox:Связаться со мной: yuliapopova.s@yandex.ru или [![Telegram Badge](https://img.shields.io/badge/-yulana_s-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yulana_s)
+- :mailbox:Связаться со мной: [![Email Badge](https://img.shields.io/badge/yuliapopova.s@yandex.ru-E3695F?style=flat&logo=maildotru&logoColor=white)](mailto:yuliapopova.s@yandex.ru) или [![Telegram Badge](https://img.shields.io/badge/-yulana_s-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yulana_s)
 
 ---
   
@@ -31,11 +31,6 @@
 ![BEM](https://img.shields.io/badge/bem-000000?style=for-the-badge&logo=bem&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
- ---
- 
-### Мои проекты:
-
 
  ---
 
