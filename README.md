@@ -32,11 +32,15 @@
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-popova-s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ ---
+ 
+### Мои проекты:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julia-popova-s&layout=compact&repo=foodwagon_project)](https://github.com/julia-popova-s/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julia-popova-s&layout=compact&repo=module_react)](https://github.com/julia-popova-s/github-readme-stats)
 
  ---
-### Мои проекты:
-1. [Интернет-магазин на React](https://github.com/julia-popova-s/foodwagon_project)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-popova-s&layout=compact&theme=vision-friendly-dark&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
  
