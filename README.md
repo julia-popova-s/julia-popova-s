@@ -18,7 +18,7 @@
 ---
   
 ### :hammer_and_wrench: Языки и инструменты :
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -35,10 +35,19 @@
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-3D3D3D?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 
+ ---
+
+### Проекты:
+[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=1.+Интернет-магазин+по+доставке+еды:&logoColor=black)](https://julia-popova-s.github.io/foodwagon_project/) 
+
+[![Auth-Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=2.+Форма+регистрации/авторизации:)](https://julia-popova-s.github.io/module-js/)
+
+[![SPA на React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=2.+SPA+на+React+(интернет-магазин):)](https://julia-popova-s.github.io/module_react/)
+
+[![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=4.+Практика+по+верстке:)](https://julia-popova-s.github.io/layout-practice/)
+
 
  ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julia-popova-s&theme=transparent&mode=weekly)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-popova-s&layout=compact&theme=vision-friendly-dark&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
- 
