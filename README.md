@@ -38,13 +38,13 @@
  ---
 
 ### Проекты:
-[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=1.+Интернет-магазин+по+доставке+еды:&logoColor=black)](https://julia-popova-s.github.io/foodwagon_project/) 
+[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=1.+Интернет-магазин+по+доставке+еды:&logoColor=black)](https://github.com/julia-popova-s/foodwagon_project)
 
-[![Auth-Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=2.+Форма+регистрации/авторизации:)](https://julia-popova-s.github.io/module-js/)
+[![Auth-Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=2.+Форма+регистрации/авторизации:)](https://github.com/julia-popova-s/module-js)
 
-[![SPA на React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=2.+SPA+на+React+(интернет-магазин):)](https://julia-popova-s.github.io/module_react/)
+[![SPA на React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=2.+SPA+на+React+(интернет-магазин):)](https://github.com/julia-popova-s/module_react)
 
-[![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=4.+Практика+по+верстке:)](https://julia-popova-s.github.io/layout-practice/)
+[![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=4.+Практика+по+верстке:)](https://github.com/julia-popova-s/layout-practice)
 
 
  ---
