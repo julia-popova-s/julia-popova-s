@@ -24,27 +24,26 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![BEM](https://img.shields.io/badge/bem-3D3D3D?style=for-the-badge&logo=bem&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-3D3D3D?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-3D3D3D?style=for-the-badge&logo=github&logoColor=white)
 
  ---
 
 ### Проекты:
-[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=1.+Интернет-магазин+по+доставке+еды+(React+Redux-Toolkit):&logoColor=black)](https://github.com/julia-popova-s/foodwagon_project)
+[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit):&logoColor=black)](https://github.com/julia-popova-s/foodwagon_project)
 
-[![Auth-Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=2.+Форма+регистрации/авторизации+(JS+HTML+CSS):)](https://github.com/julia-popova-s/module-js)
+[![Auth-Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=Форма+регистрации+(JS+HTML+CSS):)](https://github.com/julia-popova-s/module-js)
 
-[![SPA на React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=2.+SPA+(интернет-магазин)+(React):)](https://github.com/julia-popova-s/module_react)
+[![SPA на React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=SPA,+интернет-магазин+(React):)](https://github.com/julia-popova-s/module_react)
 
-[![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=4.+Практика+по+верстке:)](https://github.com/julia-popova-s/layout-practice)
+[![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=Практика+по+верстке:)](https://github.com/julia-popova-s/layout-practice)
 
 
  ---
