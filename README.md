@@ -17,7 +17,7 @@
 
 ---
   
-### :hammer_and_wrench: Языки и инструменты :
+### Языки и инструменты :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -42,7 +42,7 @@
 
 [![Auth-Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=Форма+регистрации+(JS+HTML+CSS):)](https://github.com/julia-popova-s/module-js)
 
-[![SPA на React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=SPA,+интернет-магазин+(React):)](https://github.com/julia-popova-s/module_react)
+[![SPA на React](https://img.shields.io/badge/online-shop-00AFF0?style=for-the-badge&label=SPA,+интернет-магазин+(React):)](https://github.com/julia-popova-s/module_react)
 
 [![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=Практика+по+верстке:)](https://github.com/julia-popova-s/layout-practice)
 
