@@ -38,7 +38,7 @@
  ---
 
 ### Проекты:
-[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit):&logoColor=black)](https://github.com/julia-popova-s/foodwagon-online-shop)
+[![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):&logoColor=black)](https://github.com/julia-popova-s/foodwagon-online-shop)
 
 [![SPA_на_React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):)](https://github.com/julia-popova-s/online-shop)
 
