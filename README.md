@@ -44,7 +44,7 @@
 ### Проекты:
 
 [![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):&logoColor=black)](https://github.com/julia-popova-s/foodwagon-online-shop)
- - В данном проекте реализован функционал интернет-магазина, в котором пользователи могут выбирать рестораны, искать любимые блюда и добавлять их в корзину.
+ - В данном проекте реализован функционал [интернет-магазина](https://github.com/julia-popova-s/foodwagon-online-shop), в котором пользователи могут выбирать рестораны, искать любимые блюда и добавлять их в корзину.
  
 
 [![Auth+Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=Форма+регистрации+(JS+HTML+CSS):)](https://github.com/julia-popova-s/module-js)
