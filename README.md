@@ -39,7 +39,7 @@
  
 ### Командная разработка:
 [![ESports-Tournaments](https://img.shields.io/badge/Tournaments-00AFF0?style=for-the-badge&label=React+Redux-Toolkit+Typescript:&logoColor=black)](https://github.com/ESports-Tournaments/tournaments__frontend)
- - создала [компонент навигации](https://github.com/julia-popova-s/julia-popova-s/blob/main/tournaments.png) с выпадающим меню, которое отображается при наведении курсора и использовании стрелок на клавиатуре
+ - реализовала [компонент навигации](https://github.com/julia-popova-s/julia-popova-s/blob/main/tournaments.png) с выпадающим меню, которое отображается при наведении курсора и использовании стрелок на клавиатуре
    
 ### Проекты:
 
