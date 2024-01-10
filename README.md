@@ -36,8 +36,13 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
  ---
-
+ 
+### Командная разработка:
+[![ESports-Tournaments](https://img.shields.io/badge/Tournaments-00AFF0?style=for-the-badge&label=React+Redux-Toolkit+Typescript:&logoColor=black)](https://github.com/ESports-Tournaments/tournaments__frontend)
+ - создала [компонент навигации](https://github.com/julia-popova-s/julia-popova-s/blob/main/tournaments.png) с выпадающим меню, которое отображается при наведении курсора и использовании стрелок на клавиатуре
+   
 ### Проекты:
+
 [![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):&logoColor=black)](https://github.com/julia-popova-s/foodwagon-online-shop)
 
 [![SPA_на_React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):)](https://github.com/julia-popova-s/online-shop)
