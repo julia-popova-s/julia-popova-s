@@ -56,5 +56,4 @@
 
  ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julia-popova-s&theme=transparent&mode=weekly)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-popova-s&layout=compact&theme=vision-friendly-dark&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
