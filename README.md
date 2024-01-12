@@ -47,9 +47,9 @@
  - В данном проекте реализован функционал [интернет-магазина](https://github.com/julia-popova-s/foodwagon-online-shop), в котором пользователи могут выбирать рестораны, искать любимые блюда и добавлять их в корзину.
  
 
-[![Auth+Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=Форма+регистрации+(JS+HTML+CSS):)](https://github.com/julia-popova-s/module-js)
+[![SPA_на_React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=SPA+на+React+(React+Redux-Toolkit+Typescript):)](https://github.com/julia-popova-s/online-shop)
 
-[![SPA_на_React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):)](https://github.com/julia-popova-s/online-shop)
+[![Auth+Reg Form](https://img.shields.io/badge/Reg_Form-00AFF0?style=for-the-badge&label=Форма+регистрации+(JS+HTML+CSS):)](https://github.com/julia-popova-s/module-js)
 
 [![Окна Хаус](https://img.shields.io/badge/Окна_Хаус-00AFF0?style=for-the-badge&label=Практика+по+верстке:)](https://github.com/julia-popova-s/layout-practice)
 
