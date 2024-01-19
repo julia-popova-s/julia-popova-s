@@ -26,7 +26,10 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![BEM](https://img.shields.io/badge/bem-3D3D3D?style=for-the-badge&logo=bem&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +47,7 @@
  - В данном проекте реализован функционал [интернет-магазина](https://github.com/julia-popova-s/foodwagon-online-shop), в котором пользователи могут выбирать рестораны, искать любимые блюда и добавлять их в корзину.
  
 [![ESports-Tournaments](https://img.shields.io/badge/Tournaments-00AFF0?style=for-the-badge&label=React+Redux-Toolkit+Typescript:&logoColor=black)](https://github.com/ESports-Tournaments/tournaments__frontend)
- - Работа в команде. Реализовала [компонент навигации](https://github.com/julia-popova-s/julia-popova-s/blob/main/tournaments.png) с выпадающим меню, которое отображается при наведении курсора и использовании стрелок на клавиатуре.
+ - Работа в команде. Реализовала компонент навигации с выпадающим меню [скриншот](https://github.com/julia-popova-s/julia-popova-s/blob/main/tournaments.png), которое отображается при наведении курсора и использовании стрелок на клавиатуре.
 
 [![SPA_на_React](https://img.shields.io/badge/shop-00AFF0?style=for-the-badge&label=SPA+на+React+(React+Redux-Toolkit+Typescript):)](https://github.com/julia-popova-s/online-shop)
 
