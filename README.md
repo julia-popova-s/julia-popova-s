@@ -9,7 +9,7 @@
 
 ---
 
- ### Привет, меня зовут Юлия: 
+### Привет, меня зовут Юлия: 
 - Я специализируюсь на frontend разработке. 
 - В данный момент ищу возможность присоединиться к команде, в которой смогу расти профессионально и вносить свой вклад в создание высококачественного кода.
 - В свободное время решаю задачи на [![Codewars](https://img.shields.io/badge/codewars-black?style=flat&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/Julia.s) [![Codewars](https://www.codewars.com/users/Julia.s/badges/micro)](https://www.codewars.com/users/Julia.s)
