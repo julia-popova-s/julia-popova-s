@@ -43,7 +43,7 @@
 ### Проекты:
 
 [![FoodWagon](https://img.shields.io/badge/foodwagon-00AFF0?style=for-the-badge&label=Интернет-магазин+(React+Redux-Toolkit+Typescript):&logoColor=black)](https://github.com/julia-popova-s/foodwagon-online-shop)
- - В данном проекте реализован функционал [интернет-магазина](https://github.com/julia-popova-s/foodwagon-online-shop), в котором пользователи могут выбирать рестораны, искать любимые блюда и добавлять их в корзину.
+ - В данном проекте реализован функционал [интернет-магазина](https://julia-popova-s.github.io/foodwagon-online-shop/), в котором пользователи могут выбирать рестораны, искать любимые блюда и добавлять их в корзину.
  
 [![ESports-Tournaments](https://img.shields.io/badge/Tournaments-00AFF0?style=for-the-badge&label=React+Redux-Toolkit+Typescript:&logoColor=black)](https://github.com/ESports-Tournaments/tournaments__frontend)
  - Работа в команде. Реализовала компонент навигации с выпадающим меню, которое отображается при наведении курсора и использовании стрелок на клавиатуре.
