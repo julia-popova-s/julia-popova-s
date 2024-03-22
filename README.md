@@ -12,7 +12,7 @@
 ### Привет, меня зовут Юлия: 
 - Я специализируюсь на frontend разработке. 
 - В данный момент ищу возможность присоединиться к команде, в которой смогу расти профессионально и вносить свой вклад в создание высококачественного кода.
-- В свободное время решаю задачи на [![Codewars](https://img.shields.io/badge/codewars-black?style=flat&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/Julia.s) [![Codewars](https://www.codewars.com/users/Julia.s/badges/micro)](https://www.codewars.com/users/Julia.s)
+- В свободное время решаю задачи на [![Codewars](https://img.shields.io/badge/codewars-black?style=flat&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/Julia.s) [![Codewars](https://www.codewars.com/users/Julia.s/badges/micro)](https://www.codewars.com/users/Julia.s) [![Leetcode](https://img.shields.io/badge/leetcode-black?style=flat&logo=leetcode&logoColor=B1361E)](https://leetcode.com/Yulana_s/)
 - Связаться со мной: [![Email Badge](https://img.shields.io/badge/yuliapopova.s@yandex.ru-E3695F?style=flat&logo=maildotru&logoColor=white)](mailto:yuliapopova.s@yandex.ru) или [![Telegram Badge](https://img.shields.io/badge/-yulana_s-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yulana_s)
 
 ---
